@@ -1,7 +1,7 @@
 {
   "name": "Dezure",
   "description": "Bypasses the annoying step on azure resource deletion",
-  "version": "1.0",
+  "version": "0.1",
   "permissions": [
     "activeTab"
   ],
